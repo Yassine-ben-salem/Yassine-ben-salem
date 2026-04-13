@@ -20,11 +20,11 @@ Here are some projects I'm proud of:
 
 - **Unilost** — A lost and found platform for university students to post and find lost items on campus
   - Technologies: HTML, CSS, JavaScript, PHP, SQL
-  - [View on GitHub](https://github.com/Yassine-ben-salem/unilost)
+  - [View on GitHub](https://github.com/Yassine-ben-salem/web-project)
 
 - **PharmaSeek** — A platform connecting clients with pharmacies to make buying medications easier and more convenient
   - Technologies: Spring Boot (Backend)
-  - [View on GitHub](https://github.com/Yassine-ben-salem/pharma-seek)
+  - [View on GitHub](https://github.com/Yassine-ben-salem/pfa)
 
 ## 📬 Let's Connect
 
@@ -34,7 +34,7 @@ Here are some projects I'm proud of:
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-ben-salem&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-ben-salem&show_icons=true&theme=radical)
 
 ## 💬 Fun Facts
 
