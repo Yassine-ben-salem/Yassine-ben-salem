@@ -32,9 +32,6 @@ Here are some projects I'm proud of:
 - 💼 LinkedIn: [Med Yassine Bensalem](https://www.linkedin.com/in/med-yassine-bensalem)
 - 🐙 GitHub: [@Yassine-ben-salem](https://github.com/Yassine-ben-salem)
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yassine-ben-salem)
-
 ## 💬 Fun Facts
 
 - 🎮 Game development is on my bucket list
