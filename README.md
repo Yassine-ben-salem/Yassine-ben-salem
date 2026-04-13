@@ -33,8 +33,7 @@ Here are some projects I'm proud of:
 - 🐙 GitHub: [@Yassine-ben-salem](https://github.com/Yassine-ben-salem)
 
 ## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Yassine-ben-salem&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yassine-ben-salem)
 
 ## 💬 Fun Facts
 
