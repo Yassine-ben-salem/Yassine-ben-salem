@@ -30,7 +30,6 @@ Here are some projects I'm proud of:
 
 - 📧 Email: [medyassinebnsalem@gmail.com](mailto:medyassinebnsalem@gmail.com)
 - 💼 LinkedIn: [Med Yassine Bensalem](https://www.linkedin.com/in/med-yassine-bensalem)
-- 🐙 GitHub: [@Yassine-ben-salem](https://github.com/Yassine-ben-salem)
 
 ## 💬 Fun Facts
 
